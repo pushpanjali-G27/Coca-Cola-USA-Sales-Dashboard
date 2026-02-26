@@ -1,4 +1,7 @@
 # Coca-Cola USA Sales Dashboard
+
+Excel-based Coca-Cola Sales Dashboard project analyzing revenue, profit, regional performance, and product-wise sales trends. Demonstrates data cleaning, transformation, KPI tracking, and interactive visualization skills using Pivot Tables, charts, and slicers.
+
 ##  Project Overview
 
 The Coca-Cola USA Sales Dashboard is a data analytics project designed to analyze and visualize sales performance across multiple Coca-Cola brands such as Coca-Cola, Sprite, Fanta, and Dasani across different regions and retailers in the United States.
